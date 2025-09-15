@@ -1,0 +1,8 @@
+{
+  "name": "LuxeLanding - FlirtChat with Mia",
+  "description": "An exclusive AI-powered chat experience to flirt with Mia Taylor. Features include private AI chat, exclusive media content, and live video call bookings.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
